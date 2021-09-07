@@ -20,13 +20,17 @@ DUPLICATES = {
 TRIMMED_KEYS = [
     'Author',
     'Name',
+    'Punchline',
     'Description',
+    'Changelog',
     'InternalName',
     'AssemblyVersion',
     'RepoUrl',
     'ApplicableVersion',
     'Tags',
     'DalamudApiLevel',
+    'IconUrl',
+    'ImageUrls',
 ]
 
 def main():
