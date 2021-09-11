@@ -1,14 +1,14 @@
 {
-  "Author": "attick, daemitus",
+  "Author": "",
   "Name": "DrawCure",
   "InternalName": "DrawCure",
   "AssemblyVersion": "1.0.0.0",
-  "Description": "显示治疗范围\n 能通过/DrawCure AOE x,-y,z,size,time 来显示aoe范围\n通过/DrawCure help获取更多信息",
+  "Description": "鏄剧ず娌荤枟鑼冨洿\n 鑳介�氳繃/DrawCure AOE x,-y,z,size,time 鏉ユ樉绀篴oe鑼冨洿\n閫氳繃/DrawCure help鑾峰彇鏇村淇℃伅",
   "ApplicableVersion": "any",
   "RepoUrl": "",
   "DalamudApiLevel": 4,
   "LoadPriority": 0,
   "ImageUrls": [],
   "IconUrl": "https://github.com/tssailzz8/MyPlugins/raw/API4/plugins/DrawCure/1-%E5%9B%BE%E7%89%87.png",
-  "Punchline": ""
+  "Punchline": "213"
 }
