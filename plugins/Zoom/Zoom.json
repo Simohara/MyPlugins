@@ -1,0 +1,18 @@
+﻿{
+    "Author":  "",
+    "Name":  "Zoom",
+    "InternalName": "Zoom",
+    "Punchline":  "Zoom",
+    "Description":  "Set max zoom",
+    "IconUrl":  "",
+    "ImageUrls":  [
+                      ""
+                  ],
+    "RepoUrl":  "",
+    "InternalName":  "Zoom",
+    "AssemblyVersion":  "1.0.0.0",
+    "ApplicableVersion":  "any",
+    "DalamudApiLevel":  4,
+    "LoadPriority":  0,
+    "Changelog":  "Updated for API4"
+}
