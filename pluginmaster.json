@@ -17,7 +17,27 @@
         "DownloadLinkTesting": "https://github.com/tssailzz8/MyPlugins/raw/API4/plugins/XIVComboExpandedest/latest.zip",
         "DownloadLinkUpdate": "https://github.com/tssailzz8/MyPlugins/raw/API4/plugins/XIVComboExpandedest/latest.zip",
         "DownloadCount": 0,
-        "LastUpdated": "1631370122"
+        "LastUpdated": "1631370284"
+    },
+    {
+        "Author": "",
+        "Name": "LockBOSS",
+        "Punchline": "213",
+        "Description": "\u9501\u5b9aBOSS /LockBOSS attack\u80fd\u81ea\u52a8\u653b\u51fb\u6700\u8fd1\u7684\u602a",
+        "InternalName": "Lock",
+        "AssemblyVersion": "1.0.0.0",
+        "RepoUrl": "",
+        "ApplicableVersion": "any",
+        "DalamudApiLevel": 4,
+        "IconUrl": "https://github.com/tssailzz8/MyPlugins/raw/API4/plugins/Lock/2-%E5%9B%BE%E7%89%87.png",
+        "ImageUrls": [],
+        "DownloadLinkInstall": "https://github.com/tssailzz8/MyPlugins/raw/API4/plugins/Lock/latest.zip",
+        "IsHide": false,
+        "IsTestingExclusive": false,
+        "DownloadLinkTesting": "https://github.com/tssailzz8/MyPlugins/raw/API4/plugins/Lock/latest.zip",
+        "DownloadLinkUpdate": "https://github.com/tssailzz8/MyPlugins/raw/API4/plugins/Lock/latest.zip",
+        "DownloadCount": 0,
+        "LastUpdated": "1631370284"
     },
     {
         "Author": "",
@@ -37,6 +57,6 @@
         "DownloadLinkTesting": "https://github.com/tssailzz8/MyPlugins/raw/API4/plugins/DrawCure/latest.zip",
         "DownloadLinkUpdate": "https://github.com/tssailzz8/MyPlugins/raw/API4/plugins/DrawCure/latest.zip",
         "DownloadCount": 0,
-        "LastUpdated": "1631370122"
+        "LastUpdated": "1631370284"
     }
 ]
