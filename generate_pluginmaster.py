@@ -5,7 +5,8 @@ from sys import argv
 from os.path import getmtime
 from zipfile import ZipFile, ZIP_DEFLATED
 
-DOWNLOAD_URL = 'https://github.com/tssailzz8/MyPlugins/raw/API4/plugins/{plugin_name}/latest.zip'
+BRANCH = os.environ['GITHUB_REF'].split('refs/heads/')[-1]
+DOWNLOAD_URL = 'https://github.com/tssailzz8/MyPlugins/raw/{branch}/plugins/{plugin_name}/latest.zip'
 
 DEFAULTS = {
     'IsHide': False,
@@ -55,7 +56,7 @@ def extract_manifests():
     for dirpath, dirnames, filenames in os.walk('./plugins'):
         if len(filenames) == 0 or 'latest.zip' not in filenames:
             continue
-        plugin_name = dirpath.split('\\')[-1]
+        plugin_name = dirpath.split('/')[-1]
         latest_zip = f'{dirpath}/latest.zip'
         with ZipFile(latest_zip) as z:
             manifest = json.loads(z.read(f'{plugin_name}.json').decode('utf-8'))
@@ -66,7 +67,7 @@ def extract_manifests():
 def add_extra_fields(manifests):
     for manifest in manifests:
         # generate the download link from the internal assembly name
-        manifest['DownloadLinkInstall'] = DOWNLOAD_URL.format(plugin_name=manifest["InternalName"])
+        manifest['DownloadLinkInstall'] = DOWNLOAD_URL.format(branch=BRANCH, plugin_name=manifest["InternalName"])
         # add default values if missing
         for k, v in DEFAULTS.items():
             if k not in manifest:

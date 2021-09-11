@@ -2,7 +2,21 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="502f6dbd-9040-4d4d-aea8-4fb9ee71241d" name="默认的" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/generate_pluginmaster.py" beforeDir="false" afterPath="$PROJECT_DIR$/generate_pluginmaster.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pluginmaster.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/plugins/DrawCure/1-图片.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/plugins/DrawCure/DrawCure.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/plugins/DrawCure/latest.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/plugins/Lock/2-图片.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/plugins/Lock/Lock.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/plugins/Lock/latest.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/plugins/SeeBuff/1-图片.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/plugins/SeeBuff/SeeBuff.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/plugins/SeeBuff/latest.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/plugins/XIVComboExpanded/XIVComboExpandedest.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/plugins/XIVComboExpanded/icon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/plugins/XIVComboExpanded/latest.zip" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -26,6 +40,7 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
@@ -90,5 +105,17 @@
       <updated>1614951599468</updated>
     </task>
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
 </project>
