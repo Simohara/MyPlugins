@@ -1,6 +1,6 @@
 {
   "Author": "",
-  "Name": "LockBOSS",
+  "Name": "Lock",
   "InternalName": "Lock",
   "AssemblyVersion": "1.0.0.0",
   "Description": "锁定BOSS /LockBOSS attack能自动攻击最近的怪",
