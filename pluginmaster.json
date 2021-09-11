@@ -17,6 +17,26 @@
         "DownloadLinkTesting": "https://github.com/tssailzz8/MyPlugins/raw/API4/plugins/XIVComboExpandedest/latest.zip",
         "DownloadLinkUpdate": "https://github.com/tssailzz8/MyPlugins/raw/API4/plugins/XIVComboExpandedest/latest.zip",
         "DownloadCount": 0,
-        "LastUpdated": "1631369554"
+        "LastUpdated": "1631370122"
+    },
+    {
+        "Author": "",
+        "Name": "DrawCure",
+        "Punchline": "213",
+        "Description": "\u663e\u793a\u6cbb\u7597\u8303\u56f4\n \u80fd\u901a\u8fc7/DrawCure AOE x,-y,z,size,time \u6765\u663e\u793aaoe\u8303\u56f4\n\u901a\u8fc7/DrawCure help\u83b7\u53d6\u66f4\u591a\u4fe1\u606f",
+        "InternalName": "DrawCure",
+        "AssemblyVersion": "1.0.0.0",
+        "RepoUrl": "",
+        "ApplicableVersion": "any",
+        "DalamudApiLevel": 4,
+        "IconUrl": "https://github.com/tssailzz8/MyPlugins/raw/API4/plugins/DrawCure/1-%E5%9B%BE%E7%89%87.png",
+        "ImageUrls": [],
+        "DownloadLinkInstall": "https://github.com/tssailzz8/MyPlugins/raw/API4/plugins/DrawCure/latest.zip",
+        "IsHide": false,
+        "IsTestingExclusive": false,
+        "DownloadLinkTesting": "https://github.com/tssailzz8/MyPlugins/raw/API4/plugins/DrawCure/latest.zip",
+        "DownloadLinkUpdate": "https://github.com/tssailzz8/MyPlugins/raw/API4/plugins/DrawCure/latest.zip",
+        "DownloadCount": 0,
+        "LastUpdated": "1631370122"
     }
 ]
