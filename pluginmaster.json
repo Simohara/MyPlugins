@@ -17,7 +17,7 @@
         "DownloadLinkTesting": "https://github.com/tssailzz8/MyPlugins/raw/API4/plugins/Zoom/latest.zip",
         "DownloadLinkUpdate": "https://github.com/tssailzz8/MyPlugins/raw/API4/plugins/Zoom/latest.zip",
         "DownloadCount": 0,
-        "LastUpdated": "1631371113"
+        "LastUpdated": "1631376638"
     },
     {
         "Author": "attick, daemitus",
@@ -37,11 +37,11 @@
         "DownloadLinkTesting": "https://github.com/tssailzz8/MyPlugins/raw/API4/plugins/XIVComboExpandedest/latest.zip",
         "DownloadLinkUpdate": "https://github.com/tssailzz8/MyPlugins/raw/API4/plugins/XIVComboExpandedest/latest.zip",
         "DownloadCount": 0,
-        "LastUpdated": "1631371113"
+        "LastUpdated": "1631376638"
     },
     {
         "Author": "",
-        "Name": "LockBOSS",
+        "Name": "Lock",
         "Punchline": "\u9501\u5b9a",
         "Description": "\u9501\u5b9aBOSS /LockBOSS attack\u80fd\u81ea\u52a8\u653b\u51fb\u6700\u8fd1\u7684\u602a",
         "InternalName": "Lock",
@@ -57,7 +57,7 @@
         "DownloadLinkTesting": "https://github.com/tssailzz8/MyPlugins/raw/API4/plugins/Lock/latest.zip",
         "DownloadLinkUpdate": "https://github.com/tssailzz8/MyPlugins/raw/API4/plugins/Lock/latest.zip",
         "DownloadCount": 0,
-        "LastUpdated": "1631371113"
+        "LastUpdated": "1631376638"
     },
     {
         "Author": "",
@@ -77,7 +77,7 @@
         "DownloadLinkTesting": "https://github.com/tssailzz8/MyPlugins/raw/API4/plugins/SeeBuff/latest.zip",
         "DownloadLinkUpdate": "https://github.com/tssailzz8/MyPlugins/raw/API4/plugins/SeeBuff/latest.zip",
         "DownloadCount": 0,
-        "LastUpdated": "1631371113"
+        "LastUpdated": "1631376638"
     },
     {
         "Author": "",
@@ -97,6 +97,6 @@
         "DownloadLinkTesting": "https://github.com/tssailzz8/MyPlugins/raw/API4/plugins/DrawCure/latest.zip",
         "DownloadLinkUpdate": "https://github.com/tssailzz8/MyPlugins/raw/API4/plugins/DrawCure/latest.zip",
         "DownloadCount": 0,
-        "LastUpdated": "1631371113"
+        "LastUpdated": "1631376638"
     }
 ]
