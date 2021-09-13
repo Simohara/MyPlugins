@@ -11,11 +11,11 @@
             "Zoom"
         ],
         "DalamudApiLevel": 3,
-        "DownloadLinkInstall": "https://github.com/tssailzz8/MyDalamudPlugins/raw/master/plugins/Zoom/latest.zip",
+        "DownloadLinkInstall": "https://raw.githubusercontent.com/tssailzz8/MyPlugins/master/plugins/Zoom/latest.zip",
         "IsHide": false,
         "IsTestingExclusive": false,
-        "DownloadLinkTesting": "https://github.com/tssailzz8/MyDalamudPlugins/raw/master/plugins/Zoom/latest.zip",
-        "DownloadLinkUpdate": "https://github.com/tssailzz8/MyDalamudPlugins/raw/master/plugins/Zoom/latest.zip",
+        "DownloadLinkTesting": "https://raw.githubusercontent.com/tssailzz8/MyPlugins/master/plugins/Zoom/latest.zip",
+        "DownloadLinkUpdate": "https://raw.githubusercontent.com/tssailzz8/MyPlugins/master/plugins/Zoom/latest.zip",
         "DownloadCount": 0,
         "LastUpdated": "1631367393"
     },
@@ -28,11 +28,11 @@
         "RepoUrl": "https://github.com/Grammernatzi/XIVComboPluginExpandedest",
         "ApplicableVersion": "any",
         "DalamudApiLevel": 3,
-        "DownloadLinkInstall": "https://github.com/tssailzz8/MyDalamudPlugins/raw/master/plugins/XIVComboExpandedest/latest.zip",
+        "DownloadLinkInstall": "https://raw.githubusercontent.com/tssailzz8/MyPlugins/master/plugins/XIVComboExpandedest/latest.zip",
         "IsHide": false,
         "IsTestingExclusive": false,
-        "DownloadLinkTesting": "https://github.com/tssailzz8/MyDalamudPlugins/raw/master/plugins/XIVComboExpandedest/latest.zip",
-        "DownloadLinkUpdate": "https://github.com/tssailzz8/MyDalamudPlugins/raw/master/plugins/XIVComboExpandedest/latest.zip",
+        "DownloadLinkTesting": "https://raw.githubusercontent.com/tssailzz8/MyPlugins/master/plugins/XIVComboExpandedest/latest.zip",
+        "DownloadLinkUpdate": "https://raw.githubusercontent.com/tssailzz8/MyPlugins/master/plugins/XIVComboExpandedest/latest.zip",
         "DownloadCount": 0,
         "LastUpdated": "1631367393"
     },
@@ -48,11 +48,11 @@
             "Lock"
         ],
         "DalamudApiLevel": 3,
-        "DownloadLinkInstall": "https://github.com/tssailzz8/MyDalamudPlugins/raw/master/plugins/Lock/latest.zip",
+        "DownloadLinkInstall": "https://raw.githubusercontent.com/tssailzz8/MyPlugins/master/plugins/Lock/latest.zip",
         "IsHide": false,
         "IsTestingExclusive": false,
-        "DownloadLinkTesting": "https://github.com/tssailzz8/MyDalamudPlugins/raw/master/plugins/Lock/latest.zip",
-        "DownloadLinkUpdate": "https://github.com/tssailzz8/MyDalamudPlugins/raw/master/plugins/Lock/latest.zip",
+        "DownloadLinkTesting": "https://raw.githubusercontent.com/tssailzz8/MyPlugins/master/plugins/Lock/latest.zip",
+        "DownloadLinkUpdate": "https://raw.githubusercontent.com/tssailzz8/MyPlugins/master/plugins/Lock/latest.zip",
         "DownloadCount": 0,
         "LastUpdated": "1631367393"
     },
@@ -68,11 +68,11 @@
             "SeeBuff"
         ],
         "DalamudApiLevel": 3,
-        "DownloadLinkInstall": "https://github.com/tssailzz8/MyDalamudPlugins/raw/master/plugins/SeeBuff/latest.zip",
+        "DownloadLinkInstall": "https://raw.githubusercontent.com/tssailzz8/MyPlugins/master/plugins/SeeBuff/latest.zip",
         "IsHide": false,
         "IsTestingExclusive": false,
-        "DownloadLinkTesting": "https://github.com/tssailzz8/MyDalamudPlugins/raw/master/plugins/SeeBuff/latest.zip",
-        "DownloadLinkUpdate": "https://github.com/tssailzz8/MyDalamudPlugins/raw/master/plugins/SeeBuff/latest.zip",
+        "DownloadLinkTesting": "https://raw.githubusercontent.com/tssailzz8/MyPlugins/master/plugins/SeeBuff/latest.zip",
+        "DownloadLinkUpdate": "https://raw.githubusercontent.com/tssailzz8/MyPlugins/master/SeeBuff/latest.zip",
         "DownloadCount": 0,
         "LastUpdated": "1631367393"
     },
@@ -88,11 +88,11 @@
             "DrawCure"
         ],
         "DalamudApiLevel": 3,
-        "DownloadLinkInstall": "https://github.com/tssailzz8/MyDalamudPlugins/raw/master/plugins/DrawCure/latest.zip",
+        "DownloadLinkInstall": "https://raw.githubusercontent.com/tssailzz8/MyPlugins/master/plugins/DrawCure/latest.zip",
         "IsHide": false,
         "IsTestingExclusive": false,
-        "DownloadLinkTesting": "https://github.com/tssailzz8/MyDalamudPlugins/raw/master/plugins/DrawCure/latest.zip",
-        "DownloadLinkUpdate": "https://github.com/tssailzz8/MyDalamudPlugins/raw/master/plugins/DrawCure/latest.zip",
+        "DownloadLinkTesting": "https://raw.githubusercontent.com/tssailzz8/MyPlugins/master/plugins/DrawCure/latest.zip",
+        "DownloadLinkUpdate": "https://raw.githubusercontent.com/tssailzz8/MyPlugins/master/plugins/DrawCure/latest.zip",
         "DownloadCount": 0,
         "LastUpdated": "1631367393"
     }
